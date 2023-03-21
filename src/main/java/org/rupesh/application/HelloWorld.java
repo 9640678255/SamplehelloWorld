@@ -1,4 +1,4 @@
-package org.rupesh.singleton;
+package org.rupesh.application;
 
 public class HelloWorld {
 	public static void main(String[] args) {
