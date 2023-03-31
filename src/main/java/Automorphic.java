@@ -10,7 +10,7 @@ public class Automorphic {
 		{
 			int rem=temp%10;
 			if(rem==a) {
-				System.out.println(a+" is aautomorphic number");
+				System.out.println(a+" is automorphic number");
 				break;
 				
 			}
